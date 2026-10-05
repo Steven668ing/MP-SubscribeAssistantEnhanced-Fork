@@ -1,0 +1,1 @@
+MoviePilot Contents write permission check.
